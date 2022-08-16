@@ -1,6 +1,6 @@
 {
   "name": "installerjs",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A system so you can download code from URLS",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Pajsen9263/installerJS.git"
   },
   "author": "Pajsen",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Pajsen9263/installerJS/issues"
   },
