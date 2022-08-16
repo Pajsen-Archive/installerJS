@@ -1,0 +1,22 @@
+{
+  "name": "installerjs",
+  "version": "1.0.1",
+  "description": "A system so you can download code from URLS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pajsen9263/installerJS.git"
+  },
+  "author": "Pajsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pajsen9263/installerJS/issues"
+  },
+  "homepage": "https://github.com/Pajsen9263/installerJS#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
